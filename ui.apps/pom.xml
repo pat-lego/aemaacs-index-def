@@ -51,7 +51,7 @@
                     <groupId>com.mysite</groupId>
                     <artifactId>mysite.ui.apps</artifactId>
                     <allowIndexDefinitions>true</allowIndexDefinitions>
-                    <noIntermediateSaves>false</noIntermediateSaves>
+                    <noIntermediateSaves>true</noIntermediateSaves>
                     <packageType>application</packageType>
                     <properties>
                         <cloudManagerTarget>none</cloudManagerTarget>
