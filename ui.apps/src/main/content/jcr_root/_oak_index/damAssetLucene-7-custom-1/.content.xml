@@ -291,6 +291,8 @@
         </dam:Asset>
     </indexRules>
     <tika jcr:primaryType="nt:unstructured">
-        <config.xml/>
+        <config.xml jcr:primaryType="nt:file" >
+            <jcr:content jcr:primaryType="nt:unstructured" />
+        </config.xml>
     </tika>
 </jcr:root>
