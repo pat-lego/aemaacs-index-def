@@ -1,6 +1,10 @@
-# Sample AEM project template
+![Build Status](https://github.com/pat-lego/aemaacs-index-def/workflows/Build%20and%20Test/badge.svg)
+
+# Sample AEMaaCS project template with Oak Index
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
+
+Relevant Parts: https://github.com/pat-lego/aemaacs-index-def/tree/master/ui.apps/src/main/content/jcr_root/_oak_index/damAssetLucene-7-custom-1
 
 ## Modules
 
