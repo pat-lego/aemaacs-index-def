@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - features/*
 jobs:
   build_and_test:
     name: Java Build and Test
