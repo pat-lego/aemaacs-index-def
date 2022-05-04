@@ -31,9 +31,9 @@
                 <configuration>
                     <allowIndexDefinitions>true</allowIndexDefinitions>
                     <noIntermediateSaves>true</noIntermediateSaves>
-                    <!-- <properties>
+                    <properties>
                         <cloudManagerTarget>none</cloudManagerTarget>
-                    </properties> -->
+                    </properties>
                     <filters>
                         <!-- /apps root -->
                         <filter><root>/apps</root></filter>
